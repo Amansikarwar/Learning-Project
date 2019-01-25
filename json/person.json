@@ -1,0 +1,34 @@
+[
+    {
+        "Name" : "Aman Sikarwar",
+        "Age" : 18,
+        "Height" : 170,
+        "Gender" : "male",
+        "Weight" : 55,
+        "Hair Color" : "Black"
+    },
+    {
+        "Name": "Vikash Yadav",
+        "Age": 18,
+        "Height": 171,
+        "Gender": "male",
+        "Weight": 80,
+        "Hair Color": "Dark Black"
+    },
+    {
+        "Name": "Shispal Yadav",
+        "Age": 16,
+        "Height": 172,
+        "Gender": "male",
+        "Weight": 60,
+        "Hair Color": "Black"
+    },
+    {
+        "Name": "Yash Yadav",
+        "Age": 17,
+        "Height": 176,
+        "Gender": "male",
+        "Weight": 50,
+        "Hair Color": "Black"
+    }
+]
